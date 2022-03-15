@@ -1,0 +1,2 @@
+﻿l_english:
+ JOMSVIKING_PIRATES_UNLOCK_DESCRIPTION:0 "Can recruit [GetMaA('jomsviking_pirates').GetName] as [men_at_arms|E]"

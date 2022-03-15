@@ -119,7 +119,12 @@ varangian_veterans = {
 jomsviking_pirates = {
 	type = skirmishers
 	
-	can_recruit = { always = no }
+	can_recruit = {
+		exists = dynasty
+		dynasty = {
+			has_dynasty_perk = fp1_pillage_legacy_5
+		}
+	}
 
 	damage = 30
 	toughness = 30
