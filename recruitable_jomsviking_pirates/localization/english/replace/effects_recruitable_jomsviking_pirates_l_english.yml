@@ -1,2 +1,2 @@
 ﻿l_english:
- LEGACY_ENEMIES_LOSE_EXTRA_CONTROL_WHEN_OCCUPIED:0 "Enemy [counties|E] lose #EMP substantial#! extra [control|E] when [occupied|E]\nCan recruit [GetMaA('jomsviking_pirates').GetName] as [men_at_arms|E]"
+ LEGACY_ENEMIES_LOSE_EXTRA_CONTROL_WHEN_OCCUPIED:0 "Can recruit [GetMaA('jomsviking_pirates').GetName] as [men_at_arms|E]\nEnemy [counties|E] lose #EMP substantial#! extra [control|E] when [occupied|E]"
