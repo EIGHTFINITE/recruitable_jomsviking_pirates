@@ -5,5 +5,5 @@ tags={
 	"Balance"
 }
 name="Recruitable Jomsviking Pirates"
-supported_version="1.6.*"
+supported_version="1.15.*"
 remote_file_id="2779427014"
