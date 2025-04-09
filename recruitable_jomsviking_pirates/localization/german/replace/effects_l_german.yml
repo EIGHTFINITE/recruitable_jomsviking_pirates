@@ -1,0 +1,2 @@
+﻿l_german:
+ LEGACY_ENEMIES_LOSE_EXTRA_CONTROL_WHEN_OCCUPIED: "Kann [GetMaA('jomsviking_pirates').GetName] als [men_at_arms|E] anwerben\nFeindliche [counties|E] verlieren #EMP beträchtlich#! an zusätzlicher [control|E], wenn sie [occupied|E] sind"

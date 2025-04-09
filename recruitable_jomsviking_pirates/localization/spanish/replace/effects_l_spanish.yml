@@ -1,0 +1,2 @@
+﻿l_spanish:
+ LEGACY_ENEMIES_LOSE_EXTRA_CONTROL_WHEN_OCCUPIED: "Puede reclutar a [GetMaA('jomsviking_pirates').GetName] como [men_at_arms|lE]\nLos [counties|lE] enemigos pierden un extra de [control|lE] #EMP considerable#! cuando están [Concept( 'occupied', 'ocupados' )|E]"

@@ -1,0 +1,2 @@
+﻿l_french:
+ LEGACY_ENEMIES_LOSE_EXTRA_CONTROL_WHEN_OCCUPIED: "Peut recruter des [GetMaA('jomsviking_pirates').GetName] comme [men_at_arms|El]\nLes [counties|El] ennemis perdent substantiellement plus de [control|El] lorsqu’ils sont [Concept('occupied','occupés')|E]"

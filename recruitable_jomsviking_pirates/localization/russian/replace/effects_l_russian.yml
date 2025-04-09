@@ -1,0 +1,2 @@
+﻿l_russian:
+ LEGACY_ENEMIES_LOSE_EXTRA_CONTROL_WHEN_OCCUPIED: "Доступны [men_at_arms|El] — [GetMaA('jomsviking_pirates').GetName]\nВражеские [Concept( 'counties', 'графства' )|E] теряют #EMP куда больше#! [Concept( 'control', 'контроля' )|E] при [Concept( 'occupied', 'оккупации' )|E]"

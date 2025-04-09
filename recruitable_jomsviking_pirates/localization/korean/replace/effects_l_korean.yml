@@ -1,0 +1,2 @@
+﻿l_korean:
+ LEGACY_ENEMIES_LOSE_EXTRA_CONTROL_WHEN_OCCUPIED: "[GetMaA('jomsviking_pirates').GetName](을)를 [men_at_arms|E]으로 모병 가능\n[occupied|E]당한 적대 [counties|E]이 #EMP 상당한 수준#!의 [control|E]을 추가적으로 잃음 "

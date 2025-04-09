@@ -1,0 +1,2 @@
+﻿l_simp_chinese:
+ LEGACY_ENEMIES_LOSE_EXTRA_CONTROL_WHEN_OCCUPIED: "可以招募[GetMaA('jomsviking_pirates').GetName][men_at_arms|E]\n当[occupied|E]时敌方[counties|E]失去#EMP 大量#!额外[control|E]"

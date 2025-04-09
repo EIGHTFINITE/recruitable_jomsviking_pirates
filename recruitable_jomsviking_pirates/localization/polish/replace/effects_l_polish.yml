@@ -1,0 +1,2 @@
+﻿l_polish:
+ LEGACY_ENEMIES_LOSE_EXTRA_CONTROL_WHEN_OCCUPIED: "Można rekrutować [Concept( 'men_at_arms', 'zbrojnych' )|E]: [GetMaA('jomsviking_pirates').GetName|l]\nWrogie [Concept( 'counties', 'hrabstwa' )|E] tracą w sposób #EMP znaczący#! [Concept( 'control', 'kontrolę' )|E], gdy są [Concept( 'occupied', 'okupowane' )|E]"
