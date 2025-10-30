@@ -120,6 +120,7 @@ varangian_veterans = {
 	
 	counters = {
 		pikemen = 1
+		peasant_militia = 2
 		heavy_cavalry = 1
 	}
 
@@ -140,13 +141,8 @@ varangian_veterans = {
 
 jomsviking_pirates = {
 	type = skirmishers
-	
-	can_recruit = {
-		exists = dynasty
-		dynasty = {
-			has_dynasty_perk = fp1_pillage_legacy_5
-		}
-	}
+
+	special_recruit_only = yes
 
 	damage = 30
 	toughness = 30
